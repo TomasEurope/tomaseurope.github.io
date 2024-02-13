@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module version="4">
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
   <component name="SonarLintModuleSettings">
-    <option name="uniqueId" value="dfc5dc79-cf3f-43e1-bcd1-80018658a892" />
+    <option name="uniqueId" value="ea410ce6-3346-4856-8808-ab03b2fea77c" />
   </component>
 </module>
